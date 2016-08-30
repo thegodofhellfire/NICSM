@@ -9,6 +9,8 @@ html, body {
   padding:0;
   overflow:hidden;
   background-color:white;
+  font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+  font-size:32px;
 }
 
 #fullpage {
